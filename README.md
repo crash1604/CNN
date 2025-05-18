@@ -6,7 +6,7 @@ Sure! Below is a refined and detailed document in Markdown format, which starts 
 
 ## Introduction
 
-**Artificial Neural Networks (ANNs)** are computational models inspired by the way the human brain processes information. They consist of layers of interconnected nodes (neurons), which transmit information through connections (synapses). Convolutional Neural Networks (CNNs) are a special class of ANNs designed to process data that has a grid-like topology, such as images. CNNs excel at recognizing patterns in visual data, making them particularly effective for image and video recognition tasks.
+**Artificial Neural Networks (ANNs)** are computational models inspired by the way the human brain processes information. They consist of layers of interconnected nodes (neurons), which transmit information through connections (synapses). Convolutional Neural Networks (CNNs) are a special class of ANNs designed to process data that has a grid-like topology, such as images. CNNs excel at recognizing patterns in visual data, making them particularly effective for image and video recognition tasks .
 
 ### Key Concepts:
 
